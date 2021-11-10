@@ -1,1 +1,1 @@
-Java course Projects
+JAVA COURSE PROJECTS
